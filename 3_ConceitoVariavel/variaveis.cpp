@@ -10,6 +10,7 @@ int main()
     std::cout << "***************" << std::endl;
     std::cout << "Vidas Jogador: " << NumVidas << std::endl;
     std::cout << "Pontuacao: " << Score << std::endl;
+    std::cout << "Endereço que Numvidas Ocupa na memoria RAM: " << &NumVidas << std::endl;
     std::cout << "***************" << std::endl;
 
 }
