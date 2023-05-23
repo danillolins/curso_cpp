@@ -19,7 +19,6 @@ int main()
     NumVidas -= 1;
     std::cout << "Vidas Jogador: " << NumVidas << std::endl;
     std::cout << "Pontuacao: " << Score << std::endl;
-
-
-
+    
+    return 0;
 }
