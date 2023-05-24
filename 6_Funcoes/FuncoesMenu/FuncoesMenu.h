@@ -1,4 +1,8 @@
-//#pragma once
+#pragma once
+
+#include <iostream>
+#include "FuncoesMenu.h"
+
 
 void ExibirMenu();
 int RetornarEscolha();
