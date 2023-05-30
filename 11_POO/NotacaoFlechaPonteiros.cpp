@@ -26,7 +26,6 @@ int main()
 	std::cout << "\n Tem Suite: ";
     CasaDePraia->TemSuite() ? std::cout << "Sim": std::cout << "Não" << "\n";
 	std::cout << "\n";
-	system("PAUSE");
 	return 0;
 }
 
